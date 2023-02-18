@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU Lesser General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package java.com.github.kwhat.jnativehook;
+package com.github.kwhat.jnativehook;
 
 import com.github.kwhat.jnativehook.dispatcher.DefaultDispatchService;
 import com.github.kwhat.jnativehook.keyboard.NativeKeyEvent;

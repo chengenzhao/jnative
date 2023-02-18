@@ -22,4 +22,4 @@
  * @version 2.0
  * @since 2.0
  */
-package java.com.github.kwhat.jnativehook.dispatcher;
+package com.github.kwhat.jnativehook.dispatcher;

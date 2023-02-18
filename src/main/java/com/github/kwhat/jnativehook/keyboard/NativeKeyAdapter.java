@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU Lesser General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package java.com.github.kwhat.jnativehook.keyboard;
+package com.github.kwhat.jnativehook.keyboard;
 
 /**
  * Adapter implementation of the NativeKeyListener interface. The methods are empty so the super

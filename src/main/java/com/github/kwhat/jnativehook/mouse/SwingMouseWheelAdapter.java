@@ -15,7 +15,7 @@
  * You should have received a copy of the GNU Lesser General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package java.com.github.kwhat.jnativehook.mouse;
+package com.github.kwhat.jnativehook.mouse;
 
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseWheelEvent;

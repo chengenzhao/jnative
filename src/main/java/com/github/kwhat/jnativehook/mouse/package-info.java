@@ -22,4 +22,4 @@
  * @version 2.0
  * @since 1.0
  */
-package java.com.github.kwhat.jnativehook.mouse;
+package com.github.kwhat.jnativehook.mouse;
